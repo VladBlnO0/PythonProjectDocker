@@ -1,5 +1,3 @@
-LABEL authors="vladyslav"
-
 # Базовий образ з Python
 FROM python:3.10-slim
 # Робоча директорія в контейнері
